@@ -72,7 +72,8 @@ JOIN:
   - or paste the host's SteamID64 into the "Host ID" field and click Join.
   The host's world loads automatically - you don't need to be in a world first.
 
-Keys:  F1 host  -  F2 join (uses the ID in the panel)  -  F3 disconnect  -  F6 panel
+Keys:  F2 host  -  F3 join  -  F4 disconnect  -  F6 open/hide panel
+(The panel starts hidden - press F6 to open it.)
 
 
 KNOWN LIMITATIONS (BETA)
