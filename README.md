@@ -4,7 +4,6 @@ Drop-in co-op for [MineMogul](https://store.steampowered.com/app/3846120/MineMog
 Play your world together over Steam - one player hosts, everyone else joins from a
 Steam invite. No port-forwarding, no IP sharing.
 
-This branch is the **ready-to-use build**. The source lives on the [`dev`](../../tree/dev) branch.
 
 ## Install
 
